@@ -1,0 +1,16 @@
+{
+  "name": "lola-market",
+  "owner": {
+    "name": "LOLA Market",
+    "url": "https://lola.market"
+  },
+  "metadata": {
+    "description": "The LOLA Market plugin — connect Claude to LOLA Market's remote MCP server for rentals, listings, inventory and AI-assisted pricing."
+  },
+  "plugins": [
+    {
+      "name": "lola-market",
+      "source": "./"
+    }
+  ]
+}

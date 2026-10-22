@@ -1,0 +1,17 @@
+{
+  "name": "lola-market",
+  "displayName": "LOLA Market",
+  "version": "0.1.0",
+  "description": "Connect Claude to LOLA Market — browse and manage your rentals, listings, inventory and AI-assisted pricing through the LOLA remote MCP server.",
+  "author": {
+    "name": "LOLA Market",
+    "url": "https://lola.market"
+  },
+  "homepage": "https://lola.market",
+  "repository": "https://github.com/lola-market/lola-market-plugin",
+  "documentationUrl": "https://lola.market",
+  "supportUrl": "https://lola.market",
+  "privacyPolicyUrl": "https://lola.market/privacy",
+  "license": "MIT",
+  "keywords": ["lola", "marketplace", "rentals", "mcp"]
+}

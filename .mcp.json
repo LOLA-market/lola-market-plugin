@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "lola": {
+      "type": "http",
+      "url": "https://api.lola.market/lola-mcp"
+    }
+  }
+}
